@@ -1,9 +1,11 @@
+
+
 import java.util.Scanner;
 
 public class ModulusCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+// i  changed this line 
         System.out.print("Enter the first number: ");
         int num1 = scanner.nextInt();
 
